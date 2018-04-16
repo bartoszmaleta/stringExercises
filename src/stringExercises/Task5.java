@@ -17,7 +17,11 @@ public class Task5
 
         int length = word.length();
         System.out.println(word.charAt(length-2));
+        System.out.println(word.charAt(0));
 
+
+//        StringBuilder lastName = new StringBuilder("Maleta");
+//        lastName.reverse();
 
 
     }
